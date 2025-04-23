@@ -1,5 +1,5 @@
 Gizlilik Politikası
-İngilizce Kolay uygulamasını kullandığınız için teşekkür ederiz. Bu gizlilik politikası, uygulamanın kullanıcı verilerini nasıl topladığını, kullandığını ve koruduğunu açıklar.
+Eng İngilizce Öğren uygulamasını  kullandığınız için teşekkür ederiz. Bu gizlilik politikası, uygulamanın kullanıcı verilerini nasıl topladığını, kullandığını ve koruduğunu açıklar.
 
 1. Toplanan Bilgiler
 İngilizce Kolay uygulaması kullanıcıdan herhangi bir kişisel bilgi (ad, e-posta, telefon numarası vb.) toplamaz. Uygulama sadece aşağıdaki teknik ve anonim verileri toplayabilir:
